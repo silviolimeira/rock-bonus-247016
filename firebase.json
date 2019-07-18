@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "site": "rock-bonus-247016-web",
+    "site": "rock-bonus-247016",
     "public": "www",
     "ignore": ["firebase.json", "**/.*", "**/node_modules/**"],
     "rewrites": [

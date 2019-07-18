@@ -57,5 +57,10 @@ firebase.json
 Finally, 
 $ firebase deploy
 
+Important: don't forget configure Credentials and Logo of application
+https://console.cloud.google.com/iam-admin/serviceaccounts/details/113473645418930290736;edit=true?authuser=1&project=rock-bonus-247016
+
+https://console.developers.google.com/apis/credentials/consent?project=rock-bonus-247016&angularJsUrl=%2Fapis%2Fcredentials%2Fconsent%3Fproject%3D874036221463&authuser=1&duration=P1D
+
 Project Console: https://console.firebase.google.com/project/rock-bonus-247016/overview
-Hosting URL: https://rock-bonus-247016-web.firebaseapp.com
+Hosting URL: https://rock-bonus-247016.firebaseapp.com
