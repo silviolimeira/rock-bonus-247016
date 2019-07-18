@@ -22,7 +22,7 @@ import {
 import { AngularFireDatabaseModule } from "@angular/fire/database";
 
 const firebaseUiAuthConfig: firebaseui.auth.Config = {
-  signInFlow: "popup",
+  signInFlow: "redirect",
   signInOptions: [
     // firebase.auth.EmailAuthProvider.PROVIDER_ID
     // firebase.auth.PhoneAuthProvider.PROVIDER_ID,
