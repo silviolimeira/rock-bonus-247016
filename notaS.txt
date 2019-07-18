@@ -90,3 +90,6 @@ console.firebase.google.com
 Google for Education
 https://teachercenter.withgoogle.com/training
 
+How to use external JS files and JavaScript code in Angular 6/7
+https://www.truecodex.com/course/angular-6/how-to-use-external-js-files-and-javascript-code-in-angular
+
