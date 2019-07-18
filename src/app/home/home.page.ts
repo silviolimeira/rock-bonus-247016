@@ -12,6 +12,7 @@ export class HomePage {
   constructor(public afAuth: AngularFireAuth, private httpClient: HttpClient) {}
 
   signOut() {
+    this.afAuth.auth.confirmPasswordReset;
     this.afAuth.auth.signOut().then(() => {
       location.reload();
     });

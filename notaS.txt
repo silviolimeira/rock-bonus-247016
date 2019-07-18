@@ -1,3 +1,7 @@
+
+Create Database in Cloud Firestore
+https://console.firebase.google.com
+
 ID do client da Web:
 874036221463-40v1dfqisia5tqtehhf2nsjuf04lam9j.apps.googleusercontent.com
 
@@ -64,3 +68,25 @@ https://console.developers.google.com/apis/credentials/consent?project=rock-bonu
 
 Project Console: https://console.firebase.google.com/project/rock-bonus-247016/overview
 Hosting URL: https://rock-bonus-247016.firebaseapp.com
+
+Get customer id:
+https://admin.google.com/gedu.demo.mstech.com.br/AdminHome#SecuritySettings:flyout=sso
+
+Redirecionamento:
+https://console.developers.google.com/apis/credentials/oauthclient/874036221463-40v1dfqisia5tqtehhf2nsjuf04lam9j.apps.googleusercontent.com?project=rock-bonus-247016&authuser=1
+
+directory.groups.list:
+https://developers.google.com/apis-explorer/?hl=pt_BR#search/directory/admin/directory_v1/directory.groups.list?customer=C04iwevv4&_h=3&
+
+directory.members.hasMember:
+https://developers.google.com/apis-explorer/?hl=pt_BR#search/directory/admin/directory_v1/directory.members.hasMember?groupKey=02jxsxqh1ewkirf&memberKey=silvio.limeira%2540gedu.demo.mstech.com.br&_h=6&
+
+Configurar Logon único (SSO):
+https://admin.google.com/gedu.demo.mstech.com.br/AdminHome?fral=1#SecuritySettings:flyout=sso
+
+Console Firebase:
+console.firebase.google.com
+
+Google for Education
+https://teachercenter.withgoogle.com/training
+
