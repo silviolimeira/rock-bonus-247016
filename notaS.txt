@@ -61,6 +61,10 @@ firebase.json
 Finally, 
 $ firebase deploy
 
+Gapi GoogleApis
+$ npm install --save @types/gapi
+
+
 Important: don't forget configure Credentials and Logo of application
 https://console.cloud.google.com/iam-admin/serviceaccounts/details/113473645418930290736;edit=true?authuser=1&project=rock-bonus-247016
 
@@ -92,4 +96,5 @@ https://teachercenter.withgoogle.com/training
 
 How to use external JS files and JavaScript code in Angular 6/7
 https://www.truecodex.com/course/angular-6/how-to-use-external-js-files-and-javascript-code-in-angular
+
 

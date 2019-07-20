@@ -42,7 +42,7 @@ const firebaseUiAuthConfig: firebaseui.auth.Config = {
     IonicModule.forRoot(),
     AppRoutingModule,
 
-    AngularFireModule.initializeApp(environment.firebase),
+    AngularFireModule.initializeApp(environment.firebaseConfig),
 
     AngularFirestoreModule.enablePersistence(),
     AngularFireDatabaseModule,
